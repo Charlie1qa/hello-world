@@ -2,4 +2,4 @@
 Github Tutorial
 
 
-Traial of the Github workflow
+Trial of the Github workflow
